@@ -30,6 +30,15 @@ gem 'jbuilder', '~> 2.5'
 # using devise for authentication
 gem 'devise'
 
+# bootstrap basic prettiness
+gem 'bootstrap', '~> 4.3.1'
+
+# JQuery rails
+gem 'jquery-rails'
+
+# simple form easiness
+gem 'simple_form'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
